@@ -1,14 +1,14 @@
-# User Purchase Journey Analysis
+# 🛒 User Purchase Journey Analysis
 
 ## Project Overview
 This project analyzes the time users spend from their first website visit to completing a purchase on the same day. The analysis focuses on understanding user behavior patterns, identifying anomalies, and providing actionable insights to optimize the conversion funnel.
 
-> **Note**: Turing College requested this analysis for the educatinal purposes. It aim to understand how much time users spend from their first website visit until completing a purchase within the same day. The data base was provided by the College and is unavailable for third parties.
+> ⚠️**Note**: Turing College requested this analysis for the educatinal purposes. It aim to understand how much time users spend from their first website visit until completing a purchase within the same day. The data base was provided by the College and is unavailable for third parties.
 
 ## Data Source
 The analysis used the *turing_data_analytics.raw_events* table in BigQuery, containing time-stamped user events across the purchase funnel: page_view, view_item, add_to_cart, begin_checkout, add_payment_info, and purchase. The data spans from November 2020 to January 2021.
 
->**Note**: The raw database cannot be shared publicly. Sample query outputs are linked below. SQL queries are available in the accompanying [Product Analysis.ipynb](Product%20Analysis.ipynb) file.
+> ⚠️**Note**: The raw database cannot be shared publicly. Sample query outputs are linked below. SQL queries are available in the accompanying [Product Analysis.ipynb](Product%20Analysis.ipynb) file.
 
 ## Key Findings
 
