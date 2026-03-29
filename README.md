@@ -8,7 +8,7 @@ This project analyzes the time users spend from their first website visit to com
 ## Data Source
 The analysis used the *turing_data_analytics.raw_events* table in BigQuery, containing time-stamped user events across the purchase funnel: page_view, view_item, add_to_cart, begin_checkout, add_payment_info, and purchase. The data spans from November 2020 to January 2021.
 
->**Note**: The raw database cannot be shared publicly. Sample query outputs are linked below. SQL queries are available in the accompanying Product Analysis.ipynb file.
+>**Note**: The raw database cannot be shared publicly. Sample query outputs are linked below. SQL queries are available in the accompanying [Product Analysis.ipynb](Product%20Analysis.ipynb) file.
 
 ## Key Findings
 
